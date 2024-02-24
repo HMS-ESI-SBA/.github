@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Welcome to the README file for our second end-year school project at ESI SBA. We are excited to share the details of our collaborative effort in developing a comprehensive full-stack Property Management System (PMS) tailored for hotels. This project, undertaken as part of our second-year pluridisciplinary endeavor in 2CPI, involved the collective contributions of Mohamed Ayoub Ameri, Youcef Hanaia, Oussama Salmi, Lydia Houyem Bouchelarem, under the guidance of Mr. Belkacem KHALDI.
+Welcome to the README file for our second end-year school project at ESI SBA. We are excited to share the details of our collaborative effort in developing a comprehensive full-stack Property Management System (PMS) tailored for hotels. This project, undertaken as part of our second-year pluridisciplinary endeavor in 2CPI, involved the collective contributions of Mohamed Ayoub Ameri,Allaoua Okba, Youcef Hanaia, Oussama Salmi, Lydia Houyem Bouchelarem, under the guidance of Mr. Belkacem KHALDI.
 ## Team Overview 
 - **Supervisor** : Pr.Khaldi Balkacem.
 - **Leader** : Ameri Mohamed Ayoub
-- **Full Stack Team**: Allaoua Okba , Ameri Mohamed Ayoub , Salmi Oussama, Hanaia Youcef
+- **Full Stack Team**: Ameri Mohamed Ayoub,Allaoua Okba  , Salmi Oussama, Hanaia Youcef
 - **UX/UI Design** : Bouchelarem Lydia Houyem. 
 - **Cloud Native Architect** : Ameri Mohamed Ayoub. 
 ## Project Overview
